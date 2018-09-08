@@ -1,6 +1,6 @@
 {
   "name": "18n",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple i18n module",
   "main": "index.js",
   "scripts": {
