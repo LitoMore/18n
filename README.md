@@ -35,20 +35,6 @@ module.exports = {
 };
 ```
 
-### Options
-
-#### `langPath`
-
-> To be written
-
-#### `langPacks`
-
-> To be written
-
-#### `selecotr`
-
-> To be written
-
 ## License
 
 MIT © [LitoMore](https://github.com/LitoMore)
